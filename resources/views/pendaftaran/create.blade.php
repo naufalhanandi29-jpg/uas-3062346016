@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h2>CONTOH FORMULIR PENDAFTARAN</h2>
+<h2>FORMULIR PENDAFTARAN</h2>
 
 <form action="/pendaftaran" method="POST">
 @csrf
@@ -74,7 +74,7 @@
 </tr>
 </table>
 
-<p><i>*Catatan : Form ini belum bisa diproses karena membutuhkan script server side seperti PHP</i></p>
+<p><i>*Catatan : Form ini dibuat untuk UAS Pemrograman Web</i></p>
 
 </form>
 

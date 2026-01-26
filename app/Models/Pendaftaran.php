@@ -12,6 +12,8 @@ class Pendaftaran extends Model
         'agama',
         'hobi',
         'komentar',
+        'latitude',
+        'longitude',
         'password'
     ];
 }
