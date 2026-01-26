@@ -1,7 +1,7 @@
 # UAS Pemrograman Web
 
 Nama   : Muhammad Naufal Hanandi  
-NIM    : 3062346016  
+NPM    : 3062346016  
 Prodi  : PTI  
 
 ## Deskripsi
